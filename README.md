@@ -11,8 +11,8 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-A78BFA?style=for-the-badge)](https://portfolio-website-mauve-phi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneeb-hussain52)
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhussainn)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneeb525353@gmail.com)
 
 </div>
 
