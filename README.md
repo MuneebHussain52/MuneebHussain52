@@ -48,7 +48,7 @@ const muneeb = {
         <a href="https://connectify-new-delta.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/LIVE-▶_View_App-00C896?style=for-the-badge"/>
         </a>
-        <a href="https://github.com/MuneebHussain52" target="_blank">
+        <a href="https://github.com/MuneebHussain52/Connectify" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github"/>
         </a>
         <br/><br/>
@@ -62,7 +62,7 @@ const muneeb = {
     <td width="50%">
       <h3 align="center">🩺 Doctor Recommendation Platform</h3>
       <div align="center">
-        <a href="https://github.com/MuneebHussain52" target="_blank">
+        <a href="https://github.com/MuneebHussain52/Doctor-Recommendation-Platform" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github"/>
         </a>
         <br/><br/>
@@ -78,7 +78,7 @@ const muneeb = {
     <td width="50%">
       <h3 align="center">📄 Resume Matcher</h3>
       <div align="center">
-        <a href="https://github.com/MuneebHussain52" target="_blank">
+        <a href="https://github.com/MuneebHussain52/jobfit-ui" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github"/>
         </a>
         <br/><br/>
